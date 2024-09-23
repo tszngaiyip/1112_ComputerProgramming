@@ -1,6 +1,8 @@
 1) 製作處理字串的class, mString
 2) 製作小型的編碼機的class, mCipher
 
+- 編碼解碼方法在Test_Cast.txt，內有詳細說明並附有範例
+
 - 對應表有分為Rotor和Reflector
 - 編碼 Encode：依序輸入原始文字並得到對應的加密內容
 - 解碼 ：依序輸入加密過的字元得到原始文字
