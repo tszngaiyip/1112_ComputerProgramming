@@ -1,0 +1,2 @@
+- Classes & their member functions: myQuadrilateral, myTrapezium, myParallelogram, myRectangle, mySquare
+- Use class Point2 to storage points
